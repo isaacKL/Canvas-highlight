@@ -1,0 +1,29 @@
+{
+  "name": "studioushighlight",
+  "version": "0.0.1",
+  "description": "This is a aapplication to track studens of an organization academically to ensure they are set on a good course",
+  "main": "main.js",
+  "scripts": {
+    "test": "sh",
+    "start": "electron ."
+  },
+  "author": "Isaac Coppage",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "chartjs": "^0.3.24",
+    "fs": "0.0.1-security",
+    "googleapis": "^39.2.0",
+    "https": "^1.0.0",
+    "jsdom": "^16.4.0",
+    "mssql": "^6.2.1",
+    "mysql": "^2.18.1",
+    "node-cron": "^2.0.3",
+    "plotly": "^1.0.6",
+    "plotly.js-dist": "^1.54.7",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2",
+    "sleep": "^6.3.0",
+    "stringinject": "^2.1.1"
+  }
+}
