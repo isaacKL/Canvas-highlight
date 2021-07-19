@@ -1,1 +1,8 @@
 node_modules
+credentials.json
+config.json
+id_info.info
+sh_db_log.ldf
+sh_db.mdf
+test.pdf
+test/tests.py
